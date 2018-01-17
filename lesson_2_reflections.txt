@@ -1,0 +1,5 @@
+We need to use git init to tell git to init a repo
+It creates necessary metadata for the repo
+
+staging area comes between wd and repo
+you can choose what you want to commit using staging area
