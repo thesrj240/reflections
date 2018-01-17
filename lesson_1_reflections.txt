@@ -1,0 +1,21 @@
+Learnt using diff
+-u stands for universal flag
+Makes output more readable
++ means addition
+- means removal
+
+multiple versions helps finding bugs easily
+
+manual saving gives better results
+less clutter
+meaningful changes
+consistent working systems
+
+use git log to get prev commits
+use git diff with commmit ids to get differences
+git log --stat gives statistics about commits as well
+
+git checkout <commit id>
+to go to previous version of code
+helps to revert changes
+more confident while breaking stuff
