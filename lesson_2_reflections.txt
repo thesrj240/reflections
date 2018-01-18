@@ -3,3 +3,20 @@ It creates necessary metadata for the repo
 
 staging area comes between wd and repo
 you can choose what you want to commit using staging area
+
+git diff without args compares wd with last commit
+git diff   - compare wd with staging area
+git diff --staged   - compare staging area with last commit
+
+staging area can be used to ensure one logical change per commit
+by not adding all the files to the staging area at once
+
+branches are good for experimentation
+developing new features 
+without fear of breaking the master
+
+merging gives side effects with diff
+so use git show <branch>
+this will show only the changes from the parent
+
+
